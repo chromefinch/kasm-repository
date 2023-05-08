@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
-    icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    name: 'Kasm Tech',
+    description: 'A store for Kasm supported workspaces.',
+    icon: 'https://raw.githubusercontent.com/chromefinch/kasm-repository/1.0/site/finchTransparent.png',
+    listUrl: 'https://chromefinch.github.io/kasm-repository/',
+    contactUrl: 'https://airgapped.systems',
   },
   reactStrictMode: true,
   swcMinify: true,
